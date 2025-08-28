@@ -19,4 +19,5 @@ Tamaño de datos	Bubble Sort	Selection Sort	Insertion Sort	Complejidad Big O
 1.000	15.18 ms	40.95 ms	14.72 ms	O(n²)
 10.000	1698.20 ms	668.06 ms	287.33 ms	O(n²)
 
+
  Insertion Sort: Más eficiente en listas parcialmente ordenadas. Su rendimiento mejora en casos casi ordenados.
